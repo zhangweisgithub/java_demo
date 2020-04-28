@@ -7,7 +7,7 @@
 
 	 强制类型换,没有要求的时候,不做
 */
-public class DataConvert_1{
+public class DataConvert1{
 	public static void main(String[] args){
 		//double浮点,转成整数int
 		double d = 3.14;
